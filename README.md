@@ -4,6 +4,4 @@ block Ads + Fakevip
 
 Copy đường dẫn:
 
-https://raw.githubusercontent.com/vanhuutruongson/Config-Shadowrocket/main/config.conf
-
-Vào shadowrocket -> Tab Config -> Dấu (+) -> paste
+https://raw.githubusercontent.com/vanhuutruongson/Config-Shadowrocket/main/shadowblockAds%2BFakevip.conf.conf
