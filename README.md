@@ -1,7 +1,7 @@
 # Config-Shadowrocket
 block Ads + Fakevip
 
-
-Copy đường dẫn:
+URL config
 
 https://raw.githubusercontent.com/vanhuutruongson/Config-Shadowrocket/main/shadowblockAds%2BFakevip.conf.conf
+
