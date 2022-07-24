@@ -3,5 +3,5 @@ block Ads + Fakevip
 
 URL config
 
-https://raw.githubusercontent.com/vanhuutruongson/Config-Shadowrocket/main/shadowblockAds%2BFakevip.conf.conf
+https://raw.githubusercontent.com/vanhuutruongson/Config-Shadowrocket/main/shadowblockAds%2BFakevip.conf
 
