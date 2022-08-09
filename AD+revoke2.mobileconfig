@@ -40,7 +40,7 @@
 				<array>
 					<string>ocsp.apple.com</string>
 					<string>ocsp.int-x3.letsencrypt.org</string>
-					<string>ocsp2.apple.comcom</string>
+					<string>ocsp2.apple.com</string>
 					<string>mesu.apple.com</string>
 					<string>gdmf.apple.com</string>
 					<string>ppq.apple.com</string>
