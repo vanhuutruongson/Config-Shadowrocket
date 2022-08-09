@@ -35,6 +35,7 @@
 					<string>mesu.apple.com</string>
 					<string>gdmf.apple.com</string>
 					<string>ppq.apple.com</string>
+					<string>ocsp.digicert.com</string>
 				</array>
 				<key>DenyListURLs</key>
 				<array>
@@ -45,6 +46,7 @@
 					<string>gdmf.apple.com</string>
 					<string>ppq.apple.com</string>
 					<string>iadsdk.apple.com</string>
+					<string>ocsp.digicert.com</string>
 				</array>
 				<key>FilterType</key>
 				<string>BuiltIn</string>
