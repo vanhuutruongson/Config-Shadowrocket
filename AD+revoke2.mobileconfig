@@ -36,6 +36,9 @@
 					<string>gdmf.apple.com</string>
 					<string>ppq.apple.com</string>
 					<string>ocsp.digicert.com</string>
+					<string>gsa.apple.com</string>
+					<string>gsas.apple.com</string>
+					<string>p68-fmf.icloud.com</string>
 				</array>
 				<key>DenyListURLs</key>
 				<array>
@@ -47,6 +50,9 @@
 					<string>ppq.apple.com</string>
 					<string>iadsdk.apple.com</string>
 					<string>ocsp.digicert.com</string>
+					<string>gsa.apple.com</string>
+					<string>gsas.apple.com</string>
+					<string>p68-fmf.icloud.com</string>
 				</array>
 				<key>FilterType</key>
 				<string>BuiltIn</string>
