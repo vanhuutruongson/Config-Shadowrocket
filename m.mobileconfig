@@ -9,19 +9,19 @@
 			<array>
 				<dict>
 					<key>AuthenticationType</key>
-					<string></string>
+					<string>none</string>
 					<key>Name</key>
 					<string>vip</string>
 					<key>ProxyPort</key>
 					<integer>3128</integer>
 					<key>ProxyServer</key>
-					<string>203.162.021.107</string>
+					<string>203.162.21.114</string>
 				</dict>
 			</array>
 			<key>AttachAPN</key>
 			<dict>
 				<key>AuthenticationType</key>
-				<string></string>
+				<string>none</string>
 				<key>Name</key>
 				<string>vip</string>
 			</dict>
