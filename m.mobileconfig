@@ -13,9 +13,9 @@
 					<key>Name</key>
 					<string>vip</string>
 					<key>ProxyPort</key>
-					<integer>3128</integer>
+					<integer>9201</integer>
 					<key>ProxyServer</key>
-					<string>203.162.21.114</string>
+					<string>203.162.021.107</string>
 				</dict>
 			</array>
 			<key>AttachAPN</key>
