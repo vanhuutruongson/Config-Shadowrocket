@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>AuthenticationType</key>
+					<string>CHAP</string>
+					<key>Name</key>
+					<string>PT DOT</string>
+					<key>ProxyPort</key>
+					<integer>3128</integer>
+					<key>ProxyServer</key>
+					<string>203.162.21.114</string>
+				</dict>
+			</array>
+			<key>AttachAPN</key>
+			<dict>
+				<key>AuthenticationType</key>
+				<string>CHAP</string>
+				<key>Name</key>
+				<string>PT DOT</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>PT DOT</string>
+			<key>PayloadDisplayName</key>
+			<string>PT DOT</string>
+			<key>PayloadIdentifier</key>
+			<string>PT DOT</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>4be0643f-1d98-573b-97cd-ca98a65347dd</string>
+			<key>PayloadVersion</key>
+			<real>1</real>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>PT DOT</string>
+	<key>PayloadIdentifier</key>
+	<string>PT DOT</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/><key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DB380D76-9521-4EF3-ADE8-D7C7E9D265FF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
