@@ -9,7 +9,7 @@
 			<array>
 				<dict>
 					<key>AuthenticationType</key>
-					<string>off</string>
+					<string></string>
 					<key>Name</key>
 					<string>vip</string>
 					<key>ProxyPort</key>
@@ -21,7 +21,7 @@
 			<key>AttachAPN</key>
 			<dict>
 				<key>AuthenticationType</key>
-				<string>off</string>
+				<string></string>
 				<key>Name</key>
 				<string>vip</string>
 			</dict>
