@@ -15,7 +15,7 @@
 					<key>ProxyPort</key>
 					<integer>8080</integer>
 					<key>ProxyServer</key>
-					<string>203.162.21.114/</string>
+					<string>203.162.21.114</string>
 				</dict>
 			</array>
 			<key>AttachAPN</key>
