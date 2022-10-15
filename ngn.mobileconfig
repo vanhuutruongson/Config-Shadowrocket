@@ -13,9 +13,9 @@
 					<key>Name</key>
 					<string>PT DOT</string>
 					<key>ProxyPort</key>
-					<integer>3128</integer>
+					<integer>8080</integer>
 					<key>ProxyServer</key>
-					<string>203.162.21.114</string>
+					<string>http://mobifone.vn/</string>
 				</dict>
 			</array>
 			<key>AttachAPN</key>
